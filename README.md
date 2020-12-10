@@ -14,4 +14,3 @@ Before a case is presented in front of a court, a hearing would be scheduled to 
 
 * Presented results, wrote reports to interpret and evaluate different models, as well as proposed recommendations to the local criminal justice system by minimizing defendant failure-to-appear rate and time to disposition.
 
-Check out my webpage here: https://jenarchiee.github.io/ 
