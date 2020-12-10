@@ -13,3 +13,5 @@ Before a case is presented in front of a court, a hearing would be scheduled to 
 * Processed local Washington state county data, implemented and visualized Exploratory Data Analysis (EDA), and conducted feature engineering from six datasets by utilizing Python to improve the performance of models by 37.5%.
 
 * Presented results, wrote reports to interpret and evaluate different models, as well as proposed recommendations to the local criminal justice system by minimizing defendant failure-to-appear rate and time to disposition.
+
+Check out my webpage here: https://jenarchiee.github.io/ 
