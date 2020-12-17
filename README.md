@@ -12,7 +12,7 @@ Before a case is presented in front of a court, a hearing would be scheduled to 
 
 * Processed local Washington state county data, conducted feature engineering and correlation matrix to identify the multicollinearity, and visualized Exploratory Data Analysis (EDA) from six datasets by utilizing Python, **improving the performance of models by 38%**.
 
-* Based on the baseline logistic regression model, selected variables for decision tree, SVN, KNN, and neural network, evaluated and compared metrics through confusion matrix, **improving recall rate by 18%**. 
+* Based on the baseline logistic regression model, selected variables for decision tree, SVN, KNN, and neural network, evaluated and compared metrics through confusion matrix, **increasing recall rate by 10%**. 
 
 * Presented results, wrote reports, and proposed recommendations to the local criminal justice system by minimizing defendant failure-to-appear rate and time to disposition.
 
